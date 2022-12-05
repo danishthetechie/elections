@@ -1,2 +1,2 @@
-# elections
-blockchain first election app ethereum by dapp university tutorial
+# Elections on Blockchain
+blockchain election app  on Ethereum by DAPP university tutorial
